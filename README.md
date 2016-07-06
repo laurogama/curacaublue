@@ -1,0 +1,1 @@
+#  Project to study embedded devices comunication through bluetooth using the module HC-05
